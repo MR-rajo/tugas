@@ -1,0 +1,93 @@
+.judul{
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+}
+
+.judul:hover{
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
+
+.home{
+    color: white;
+    background-color: blue;
+}
+
+.pesdik:active{
+    background-color: blue;
+    color: white;
+}
+
+.contact:active{
+    background-color: blue;
+    color: white;
+}
+
+.background{
+    background-image: url('foto\ jp.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+
+.h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    line-height: 747px;
+    font-variant: small-caps;
+    color: white;
+    text-decoration: underline;
+}
+
+.h1:hover{
+    background-color: blue;
+}
+
+.pertama{
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.pertama:hover{
+    background-color: blue;
+}
+
+.kedua{
+    color: orange;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.kedua:hover{
+    background-color: chartreuse;
+}
+
+.ketiga{
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.ketiga:hover{
+    background-color: salmon;
+}
+
+.nama{
+    color: greenyellow;
+}
+
+.last{
+    text-align: center;
+}
+
+.last:hover{
+    background-color: blue;
+    padding: 10px;
+}

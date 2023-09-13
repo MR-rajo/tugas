@@ -1,0 +1,76 @@
+body{
+    font: 16px/28px arial,sans-serif;
+    background-color: lightblue;
+    color: #333;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: #fff;
+}
+
+.header{
+    padding: 28px;
+}
+
+.header .judul{
+    font-size: 40px;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.judul span{
+    color: blue;
+}
+
+.header a{
+    text-decoration: none;
+    padding-right: 15px;
+    color: salmon;
+}
+
+.header a:hover{
+    background-color: blue;
+    color: white;
+}
+
+.hero{
+    height: 280px;
+    background-image: url('contoh.jpg');
+    background-size: cover;
+    background-position: 0 -188px;
+    border-top: 5px solid salmon;
+    border-bottom: 5px solid green;
+}
+
+.judulnew{
+    font-size: 32px;
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+.conten a{
+    text-decoration: none;
+    color: lime;
+    padding-top: -10px;
+}
+
+.conten p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    padding: 10px;
+    line-height: 30px;
+}
+
+.last{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
